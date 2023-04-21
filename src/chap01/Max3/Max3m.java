@@ -1,4 +1,4 @@
-package chap01;
+package src.chap01.Max3;
 
 public class Max3m {
     //a,b,c,의 최댓값을 구하여 반환합니다.

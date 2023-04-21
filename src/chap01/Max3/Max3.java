@@ -1,4 +1,4 @@
-package chap01;
+package src.chap01.Max3;
 
 import java.util.Scanner;
 
