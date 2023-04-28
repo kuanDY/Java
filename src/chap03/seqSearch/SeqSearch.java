@@ -2,7 +2,7 @@ package src.chap03.seqSearch;
 
 import java.util.Scanner;
 
-public class seqSearch {
+public class SeqSearch {
     // 선형 검색
     static int seqSearch(int[] a, int n, int key){
         int i = 0;

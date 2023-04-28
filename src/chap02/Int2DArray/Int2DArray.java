@@ -1,6 +1,6 @@
-package src.chap02.int2DArray;
+package src.chap02.Int2DArray;
 
-public class int2DArray {
+public class Int2DArray {
     public static void main(String[] args) {
         int[][] x = new int[2][4];
 

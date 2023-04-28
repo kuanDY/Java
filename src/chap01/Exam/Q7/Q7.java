@@ -1,4 +1,4 @@
-package src.chap01.exam.Q7;
+package src.chap01.Exam.Q7;
 
 import java.util.Scanner;
 
